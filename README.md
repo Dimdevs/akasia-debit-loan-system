@@ -70,7 +70,7 @@ In order to make the unit tests passed, you need to fulfil:
 
 **IMPORTANT:** For this challenge you SHOULD NOT update the unit test
 
-## 📋 Installation & Setup Guide
+## Installation & Setup Guide
 
 ### Prerequisites
 - **PHP** 7.4 or higher
